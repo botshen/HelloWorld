@@ -9,3 +9,5 @@ course ='Python for Beginners'
 print(course[1:-1])
 print("bot")
 print("1")
+name = "bot"
+print(f'{name} is my name')
